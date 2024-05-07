@@ -1,7 +1,7 @@
 import calorieIcon from "../assets/icon-calorie.png";
 import carbohydrateIcon from "../assets/icon-carbohydrate.png";
 import lipidIcon from "../assets/icon-lipid.png";
-import proteinIcon from "../assets/icon-protein.png";
+import proteinIcon from "../../../../";
 
 const BASE_URL = "http://localhost:3000";
 const ACTIVITY_BY_KIND = {
